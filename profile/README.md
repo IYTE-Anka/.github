@@ -24,7 +24,6 @@ Bu proje, Raspberry Pi ve bilgisayar arasında gerçek zamanlı video akışı v
 Daha fazla bilgi için bizimle iletişime geçebilirsiniz:
 
 - **E-posta**: iyteanka@gmail.com
-- [**GitHub**](https://github.com/IYTE-Anka)
 - [**Instagram**](https://www.instagram.com/iyteanka/)
 - [**LinkedIn**](https://www.linkedin.com/company/i̇yte-anka/)
 
